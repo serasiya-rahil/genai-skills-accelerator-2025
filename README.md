@@ -4,6 +4,7 @@ genai-skills-accelerator is a repository for projects, code, and resources relat
 ## Completed Assignments
 
 - **Assignment 1**: Exploring Python Concepts 
+- **Project**: Eligible Elector 
 
 ## Projects
 
